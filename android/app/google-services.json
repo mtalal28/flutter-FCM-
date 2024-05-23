@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "411355941418",
+    "project_id": "cloud-message-e7e72",
+    "storage_bucket": "cloud-message-e7e72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411355941418:android:6b01a81872060df9ee5153",
+        "android_client_info": {
+          "package_name": "com.example.cloud_message"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-KxovNg7QY-A-GcRZadMGjUXbDSsxPII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411355941418:android:a9435e9b275d8979ee5153",
+        "android_client_info": {
+          "package_name": "com.example.stuadvisors"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-KxovNg7QY-A-GcRZadMGjUXbDSsxPII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
